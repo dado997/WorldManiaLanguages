@@ -1,0 +1,9 @@
+CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
+NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
+COMMAND_INVALID_ARGS: §cArgomenti invalidi!
+COMMAND_NOTFOUND: §cComando non trovato!
+COMMAND_HINT_HELP: §7Scrivi in chat /worldmania help per vedere la lista dei comandi.
+WORLD_ALREADY_EXISTS: §cUn mondo con questo nome gia' esiste!
+WORLD_DOESNT_EXISTS: §cUn mondo con questo nome non esiste!
+WORLD_CONTAIN_PLAYERS: §cQuesto mondo contiene dei giocatori, per favore esegui questa azione quando nel mondo non sono presenti giocatori.
+PLAYER_NOT_FOUNDED: §cGiocatore non trovato!
