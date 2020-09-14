@@ -1,3 +1,39 @@
+GUI_PREVIOUS: Previous
+GUI_PREVIOUS_LORE: Go to previous page.
+GUI_NEXT: Next
+GUI_NEXT_LORE: Go to next page.
+GUI_SEARCH: Search
+GUI_SEARCH_LORE: Click to search
+GUI_CLICK_TO_CHOOSE: Click to choose
+GUI_CREATE: Crea
+GUI_CREATE_LORE: Crea un nuovo mondo.
+GUI_LEFT_CLICK_MANAGE: Click sinistro per gestire.
+GUI_RIGHT_CLICK_TP: Click destro per teletrasportarti.
+GUI_PRESS_Q_DELETE: Premi Q per eliminare.
+GUI_ENVIRONMENT: Ambiente
+GUI_TYPE: Tipo
+GUI_GENERATOR: Generatore
+GUI_GENERATE_STRUCTURES: Genera strutture
+GUI_CLICK_TO_TELEPORT: Clicca per teletrasportarti.
+GUI_CONFIRM: Conferma
+GUI_CONFIRM_LORE: &7Clicca per confermare
+GUI_ABORT: Cancella
+GUI_ABORT_LORE: &7Clicca per cancellare
+GUI_DIFFICULTY: Difficolta'
+GUI_WEATHER: Pioggia bloccata
+GUI_PLAYERS: Giocatori
+GUI_TIME_LOCKED: Tempo bloccato
+GUI_ICON: Icona
+GUI_CLICK_TO_CHANGE: &aClicca per cambiare.
+GUI_CLICK_TO_VIEW_PLAYERS: &aClicca per vedere i giocatori in questo mondo.
+GUI_CLICK_TO_CHANGE_TO: &aClicca per cambiare in
+GUI_DELETE: Elimina
+CREATING_WORLD_DIALOG: Creando il mondo
+CREATED_WORLD: &aCreato il mondo: &b
+DELETE_WORLD_DIALOG: Elimina mondo
+DELETING_WORLD_DIALOG: Eliminando il mondo
+SEARCH_SUBTITLE_DIALOG: Scrivi in chat un filtro.
+CLOSE_SEARCH: Chiudi
 CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
 NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
 COMMAND_INVALID_ARGS: §cArgomenti invalidi!
