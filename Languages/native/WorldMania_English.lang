@@ -34,12 +34,12 @@ DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
 SEARCH_SUBTITLE_DIALOG: Type in chat the filter.
 CLOSE_SEARCH: Close
-CONSOLE_CANNOT_USE: §cConsole cannot use this command!
-NO_PERMISSION: §cYou don't have permission to perform this action!
-COMMAND_INVALID_ARGS: §cInvalid Arguments!
-COMMAND_NOTFOUND: §cCommand not found!
-COMMAND_HINT_HELP: §7Type in chat /worldmania to see all commands.
-WORLD_ALREADY_EXISTS: §cA world with this name already exists!
-WORLD_DOESNT_EXISTS: §cA world with this name doesn't exists!
-WORLD_CONTAIN_PLAYERS: §cThat world contains players! please do this when the world is empty of players.
-PLAYER_NOT_FOUNDED: §cPlayer not founded!
+CONSOLE_CANNOT_USE: &cConsole cannot use this command!
+NO_PERMISSION: &cYou don't have permission to perform this action!
+COMMAND_INVALID_ARGS: &cInvalid Arguments!
+COMMAND_NOTFOUND: &cCommand not found!
+COMMAND_HINT_HELP: &7Type in chat /worldmania to see all commands.
+WORLD_ALREADY_EXISTS: &cA world with this name already exists!
+WORLD_DOESNT_EXISTS: &cA world with this name doesn't exists!
+WORLD_CONTAIN_PLAYERS: &cThat world contains players! please do this when the world is empty of players.
+PLAYER_NOT_FOUNDED: &cPlayer not founded!
