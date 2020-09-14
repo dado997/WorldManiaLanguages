@@ -16,30 +16,30 @@ GUI_GENERATOR: Generatore
 GUI_GENERATE_STRUCTURES: Genera strutture
 GUI_CLICK_TO_TELEPORT: Clicca per teletrasportarti.
 GUI_CONFIRM: Conferma
-GUI_CONFIRM_LORE: &7Clicca per confermare
+GUI_CONFIRM_LORE: §7Clicca per confermare
 GUI_ABORT: Cancella
-GUI_ABORT_LORE: &7Clicca per cancellare
+GUI_ABORT_LORE: §7Clicca per cancellare
 GUI_DIFFICULTY: Difficolta'
 GUI_WEATHER: Pioggia bloccata
 GUI_PLAYERS: Giocatori
 GUI_TIME_LOCKED: Tempo bloccato
 GUI_ICON: Icona
-GUI_CLICK_TO_CHANGE: &aClicca per cambiare.
-GUI_CLICK_TO_VIEW_PLAYERS: &aClicca per vedere i giocatori in questo mondo.
-GUI_CLICK_TO_CHANGE_TO: &aClicca per cambiare in
+GUI_CLICK_TO_CHANGE: §aClicca per cambiare.
+GUI_CLICK_TO_VIEW_PLAYERS: §aClicca per vedere i giocatori in questo mondo.
+GUI_CLICK_TO_CHANGE_TO: §aClicca per cambiare in
 GUI_DELETE: Elimina
 CREATING_WORLD_DIALOG: Creando il mondo
-CREATED_WORLD: &aCreato il mondo: &b
+CREATED_WORLD: §aCreato il mondo: §b
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
 SEARCH_SUBTITLE_DIALOG: Scrivi in chat un filtro.
 CLOSE_SEARCH: Chiudi
-CONSOLE_CANNOT_USE: &cLa console non puo' usare questo comando!
-NO_PERMISSION: &cNon hai il permesso di eseguire questa azione!
-COMMAND_INVALID_ARGS: &cArgomenti invalidi!
-COMMAND_NOTFOUND: &cComando non trovato!
-COMMAND_HINT_HELP: &7Scrivi in chat /worldmania help per vedere la lista dei comandi.
-WORLD_ALREADY_EXISTS: &cUn mondo con questo nome gia' esiste!
-WORLD_DOESNT_EXISTS: &cUn mondo con questo nome non esiste!
-WORLD_CONTAIN_PLAYERS: &cQuesto mondo contiene dei giocatori, per favore esegui questa azione quando nel mondo non sono presenti giocatori.
-PLAYER_NOT_FOUNDED: &cGiocatore non trovato!
+CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
+NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
+COMMAND_INVALID_ARGS: §cArgomenti invalidi!
+COMMAND_NOTFOUND: §cComando non trovato!
+COMMAND_HINT_HELP: §7Scrivi in chat /worldmania help per vedere la lista dei comandi.
+WORLD_ALREADY_EXISTS: §Un mondo con questo nome gia' esiste!
+WORLD_DOESNT_EXISTS: §cUn mondo con questo nome non esiste!
+WORLD_CONTAIN_PLAYERS: §cQuesto mondo contiene dei giocatori, per favore esegui questa azione quando nel mondo non sono presenti giocatori.
+PLAYER_NOT_FOUNDED: §cGiocatore non trovato!
