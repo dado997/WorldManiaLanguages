@@ -29,7 +29,7 @@ GUI_CLICK_TO_VIEW_PLAYERS: §aClick to view players in this world.
 GUI_CLICK_TO_CHANGE_TO: §aClick to change to 
 GUI_DELETE: Delete
 CREATING_WORLD_DIALOG: Creating world
-CREATED_WORLD: §aCreated the world: §b
+CREATED_WORLD: §aCreated the world: 
 DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
 SEARCH_SUBTITLE_DIALOG: Type in chat the filter.
