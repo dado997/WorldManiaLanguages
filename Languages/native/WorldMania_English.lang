@@ -41,6 +41,6 @@ COMMAND_INVALID_ARGS: §cInvalid Arguments!
 COMMAND_NOTFOUND: §cCommand not found!
 COMMAND_HINT_HELP: §7Type in chat /worldmania to see all commands.
 WORLD_ALREADY_EXISTS: §cA world with this name already exists!
-WORLD_DOESNT_EXISTS: §cA world with this name doesn't exists!
-WORLD_CONTAIN_PLAYERS: §cThat world contains players! please do this when the world is empty of players.
-PLAYER_NOT_FOUNDED: §cPlayer not founded!
+WORLD_DOESNT_EXISTS: §cA world with this name doesn't exist!
+WORLD_CONTAIN_PLAYERS: §cThat world contains players! Please do this when the world is empty.
+PLAYER_NOT_FOUNDED: §cPlayer not found!
