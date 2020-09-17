@@ -30,6 +30,7 @@ GUI_CLICK_TO_CHANGE_TO: §aClick to change to
 GUI_DELETE: Delete
 CREATING_WORLD_DIALOG: Creating world
 CREATED_WORLD: §aCreated the world: 
+SPAWN_SETTED: §aSpawn setted for the world 
 DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
 SEARCH_SUBTITLE_DIALOG: Type in chat the filter.
