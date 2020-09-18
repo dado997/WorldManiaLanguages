@@ -31,6 +31,7 @@ GUI_DELETE: Elimina
 CREATING_WORLD_DIALOG: Creando il mondo
 CREATED_WORLD: §aCreato il mondo: §b
 SPAWN_SETTED: §aSpawn impostato per il mondo 
+PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
 SEARCH_SUBTITLE_DIALOG: Scrivi in chat un filtro.
