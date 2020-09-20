@@ -28,6 +28,24 @@ GUI_CLICK_TO_CHANGE: §aClick to change
 GUI_CLICK_TO_VIEW_PLAYERS: §aClick to view players in this world.
 GUI_CLICK_TO_CHANGE_TO: §aClick to change to 
 GUI_DELETE: Delete
+MYSQL_LORE: Setup MySQL, At the end, the server will shutdown.
+MYSQL_CREDENTIALS: Credentials
+MYSQL_CREDENTIALS_LORE: Clear credentials.
+MYSQL_CREDENTIALS_CLEAR_LORE: Set MySQL credentials.
+MYSQL_CREDENTIALS_NOT_FOUNDED: No credentials founded. Please insert the credentials.
+MYSQL_CONNECTING: Connecting to MySQL
+MYSQL_CONNECTING_LORE: Please wait.
+MYSQL_CONNECTION_FAILED: Connection failed.
+MYSQL_CONNECTION_FAILED_LORE: §7Check if your settings are correct and if the database is accessible.
+MYSQL_CONNECTION_FAILED_LORE2: §7Connection Error: 
+MYSQL_SAVE: Save
+MYSQL_SAVE_LORE: §7Click to save changes
+MYSQL_SAVED: Saved
+MYSQL_SAVED_LORE: Credentials saved.
+MYSQL_TEST: Test connection
+MYSQL_TEST_LORE: §7Click to test connection
+MYSQL_DISABLE: Disable
+MYSQL_SHUTDOWN: The server will shutdown
 CREATING_WORLD_DIALOG: Creating world
 CREATED_WORLD: §aCreated the world: 
 SPAWN_SETTED: §aSpawn setted for the world 

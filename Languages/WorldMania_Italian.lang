@@ -28,6 +28,24 @@ GUI_CLICK_TO_CHANGE: §aClicca per cambiare.
 GUI_CLICK_TO_VIEW_PLAYERS: §aClicca per vedere i giocatori in questo mondo.
 GUI_CLICK_TO_CHANGE_TO: §aClicca per cambiare in 
 GUI_DELETE: Elimina
+MYSQL_LORE: Setup MySQL, At the end, the server will shutdown.
+MYSQL_CREDENTIALS: Credenziali
+MYSQL_CREDENTIALS_LORE: Pulisci credenziali.
+MYSQL_CREDENTIALS_CLEAR_LORE: Imposta le credenziali MySQL.
+MYSQL_CREDENTIALS_NOT_FOUNDED: Credenziali non trovate, per favore, inseriscile.
+MYSQL_CONNECTING: Connessione a MySQL
+MYSQL_CONNECTING_LORE: Per favore, aspetta.
+MYSQL_CONNECTION_FAILED: Connessione fallita.
+MYSQL_CONNECTION_FAILED_LORE: §7Controlla che le tue impostazioni siano corrette e che il database sia accessibile.
+MYSQL_CONNECTION_FAILED_LORE2: §7Errore di connessione: 
+MYSQL_SAVE: Salva
+MYSQL_SAVE_LORE: §7Clicca per salvare.
+MYSQL_SAVED: Salvato
+MYSQL_SAVED_LORE: Le credenziali sono salvate.
+MYSQL_TEST: Verifica connessione
+MYSQL_TEST_LORE: §7Clicca per verificare la connessione.
+MYSQL_DISABLE: Disabilita
+MYSQL_SHUTDOWN: Il server verrà chiuso.
 CREATING_WORLD_DIALOG: Creando il mondo
 CREATED_WORLD: §aCreato il mondo: §b
 SPAWN_SETTED: §aSpawn impostato per il mondo 
