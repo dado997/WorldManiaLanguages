@@ -49,6 +49,20 @@ MYSQL_SHUTDOWN: The server will shutdown
 CREATING_WORLD_DIALOG: Creating world
 CREATED_WORLD: §aCreated the world: 
 SPAWN_SETTED: §aSpawn setted for the world 
+INVALID_NUMBER: §cThe cost inserted isn't a number!
+COST_SETTED: §aSetted cost: <cost>
+DIALOG_CONFIRMED: Confirm the payment of: <cost>
+DIALOG_CONFIRMED_LORE: Type in chat confirm or abort.
+INSUFFICIENT_MONEY: §cInsufficient money! You need: <money>
+GUI_COST: Cost
+GUI_WORLD_NO_COST: This world hasn't a cost.
+GUI_ACTUALLY_COST: Actually cost: <cost>
+GUI_PRESS_Q_CHANGE: Press Q to change.
+GUI_DECREASE: Decrease
+GUI_DECREASE_LORE: Click to Decrease the cost.
+GUI_INCREASE: Increase
+GUI_INCREASE_LORE: Click to Increase the cost.
+GUI_USING_UNIT: Using unit: <unit>
 PLAYER_TELEPORTED: §aSuccessfully teleported.
 DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
