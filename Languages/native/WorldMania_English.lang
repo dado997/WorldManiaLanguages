@@ -47,22 +47,22 @@ MYSQL_TEST_LORE: §7Click to test connection
 MYSQL_DISABLE: Disable
 MYSQL_SHUTDOWN: The server will shutdown
 CREATING_WORLD_DIALOG: Creating world
-CREATED_WORLD: §aCreated the world: 
+CREATED_WORLD: §aCreated the world §b 
 SPAWN_SETTED: §aSpawn setted for the world 
 INVALID_NUMBER: §cThe cost inserted isn't a number!
-COST_SETTED: §aSetted cost: 
+COST_SETTED: §aSetted cost 
 DIALOG_CONFIRMED: Confirm the payment of: 
 DIALOG_CONFIRMED_LORE: Type in chat confirm or abort.
-INSUFFICIENT_MONEY: §cInsufficient money! You need: 
+INSUFFICIENT_MONEY: §cInsufficient money! You need 
 GUI_COST: Cost
 GUI_WORLD_NO_COST: This world hasn't a cost.
-GUI_ACTUALLY_COST: Actually cost: 
+GUI_ACTUALLY_COST: Actually cost 
 GUI_PRESS_Q_CHANGE: Press Q to change.
 GUI_DECREASE: Decrease
 GUI_DECREASE_LORE: Click to Decrease the cost.
 GUI_INCREASE: Increase
 GUI_INCREASE_LORE: Click to Increase the cost.
-GUI_USING_UNIT: Using unit: 
+GUI_USING_UNIT: Using unit 
 PLAYER_TELEPORTED: §aSuccessfully teleported.
 DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
