@@ -52,7 +52,7 @@ SPAWN_SETTED: §aSpawn impostato per il mondo
 INVALID_NUMBER: §cIl costo inserito non e' un numero!
 COST_SETTED: §aImpostato il costo 
 DIALOG_CONFIRMED: Conferma il pagamento di 
-DIALOG_CONFIRMED_LORE: Scrivi in chat confirm o abort.
+DIALOG_CONFIRMED_LORE: Scrivi in chat confirm.
 INSUFFICIENT_MONEY: §cSoldi insufficienti! Richiesti 
 GUI_COST: Costo
 GUI_WORLD_NO_COST: Questo mondo non ha un costo.
