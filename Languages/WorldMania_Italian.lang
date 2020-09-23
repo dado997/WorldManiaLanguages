@@ -50,19 +50,19 @@ CREATING_WORLD_DIALOG: Creando il mondo
 CREATED_WORLD: §aCreato il mondo: §b
 SPAWN_SETTED: §aSpawn impostato per il mondo 
 INVALID_NUMBER: §cIl costo inserito non e' un numero!
-COST_SETTED: §aImpostato il costo: <cost>
-DIALOG_CONFIRMED: Conferma il pagamento di: <cost>
+COST_SETTED: §aImpostato il costo: 
+DIALOG_CONFIRMED: Conferma il pagamento di: 
 DIALOG_CONFIRMED_LORE: Scrivi in chat confirm o abort.
-INSUFFICIENT_MONEY: §cSoldi insufficienti! Richiesti: <money>
+INSUFFICIENT_MONEY: §cSoldi insufficienti! Richiesti: 
 GUI_COST: Costo
 GUI_WORLD_NO_COST: Questo mondo non ha un costo.
-GUI_ACTUALLY_COST: Costo attuale: <cost>
+GUI_ACTUALLY_COST: Costo attuale: 
 GUI_PRESS_Q_CHANGE: Premi Q per cambiare.
 GUI_DECREASE: Diminuisci
 GUI_DECREASE_LORE: Clicca per diminuire il costo.
 GUI_INCREASE: Aumenta
 GUI_INCREASE_LORE: Clicca per aumentare il costo.
-GUI_USING_UNIT: Unita' in uso: <unit>
+GUI_USING_UNIT: Unita' in uso: 
 PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
