@@ -29,6 +29,11 @@ GUI_CLICK_TO_CHANGE: §aClick to change
 GUI_CLICK_TO_VIEW_PLAYERS: §aClick to view players in this world.
 GUI_CLICK_TO_CHANGE_TO: §aClick to change to 
 GUI_DELETE: Delete
+GUI_LEFT_CLICK_INCREASE: Left click to increase
+GUI_RIGHT_CLICK_DECREASE: Right click to decrease
+GUI_CURRENTLY: currently 
+GUI_CLICK_TO_ENABLE_SSL: §7Click to §aenable §7SSL
+GUI_CLICK_TO_DISABLE_SSL: §7Click to §cdisable §7SSL
 MYSQL_LORE: Setup MySQL, At the end, the server will shutdown.
 MYSQL_CREDENTIALS: Credentials
 MYSQL_CREDENTIALS_LORE: Clear credentials.
