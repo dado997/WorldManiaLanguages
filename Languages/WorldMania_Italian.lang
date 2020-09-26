@@ -22,7 +22,6 @@ GUI_ABORT_LORE: §7Clicca per cancellare
 GUI_DIFFICULTY: Difficolta'
 GUI_WEATHER: Pioggia bloccata
 GUI_PLAYERS: Giocatori
-GUI_DISABLED_ENTITIES: Entita' disabilitate
 GUI_TIME_LOCKED: Tempo bloccato
 GUI_ICON: Icona
 GUI_CLICK_TO_CHANGE: §aClicca per cambiare.

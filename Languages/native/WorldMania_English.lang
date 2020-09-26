@@ -22,7 +22,6 @@ GUI_ABORT_LORE: §7Click to abort
 GUI_DIFFICULTY: Difficulty
 GUI_WEATHER: Weather locked
 GUI_PLAYERS: Players
-GUI_DISABLED_ENTITIES: Disabled entities
 GUI_TIME_LOCKED: Time locked
 GUI_ICON: Icon
 GUI_CLICK_TO_CHANGE: §aClick to change
