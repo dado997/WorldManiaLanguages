@@ -68,6 +68,10 @@ GUI_DECREASE_LORE: Clicca per diminuire il costo.
 GUI_INCREASE: Aumenta
 GUI_INCREASE_LORE: Clicca per aumentare il costo.
 GUI_USING_UNIT: Unita' in uso 
+GUI_DISABLED_ENTITIES: Entita' disabilitate
+GUI_DISABLED_ENTITIES_LORE: Gestisci le entita' disabilitate
+GUI_CLICK_TO_ALLOW: §7Clicca per §aAbilitare §7lo spawn
+GUI_CLICK_TO_DISALLOW: §7Clicca per §cDisabilitare §7lo spawn
 PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
