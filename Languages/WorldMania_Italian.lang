@@ -72,6 +72,8 @@ GUI_DISABLED_ENTITIES: Entita' disabilitate
 GUI_DISABLED_ENTITIES_LORE: Gestisci le entita' disabilitate
 GUI_CLICK_TO_ALLOW: §7Clicca per §aAbilitare §7lo spawn
 GUI_CLICK_TO_DISALLOW: §7Clicca per §cDisabilitare §7lo spawn
+GUI_KILLALL: Uccidi tutti
+GUI_KILLALL_LORE: Uccidi tutte le entita' disabilitate
 PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
