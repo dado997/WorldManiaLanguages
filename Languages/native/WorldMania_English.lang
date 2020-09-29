@@ -55,6 +55,7 @@ MYSQL_SHUTDOWN: The server will shutdown
 CREATING_WORLD_DIALOG: Creating world
 CREATED_WORLD: §aCreated the world §b 
 SPAWN_SETTED: §aSpawn setted for the world 
+WORLD_LOADED: §aWorld loaded
 WORLD_ALREADY_LOADED: §cWorld already loaded!
 WORLD_NOT_LOADED: §cWorld already unloaded!
 INVALID_NUMBER: §cThe cost inserted isn't a number!
@@ -79,6 +80,7 @@ GUI_KILLALL: Kill all
 GUI_KILLALL_LORE: Kill all the disabled entities
 GUI_LOAD: Load
 GUI_LOAD_LORE: Load that world.
+GUI_LOADED: Loaded
 GUI_UNLOAD: Unload
 GUI_UNLOAD_LORE: Unload the world.
 PLAYER_TELEPORTED: §aSuccessfully teleported.
