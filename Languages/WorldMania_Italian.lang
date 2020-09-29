@@ -28,6 +28,7 @@ GUI_CLICK_TO_CHANGE: §aClicca per cambiare.
 GUI_CLICK_TO_VIEW_PLAYERS: §aClicca per vedere i giocatori in questo mondo.
 GUI_CLICK_TO_CHANGE_TO: §aClicca per cambiare in 
 GUI_DELETE: Elimina
+GUI_DELETE_LORE: Elimina il mondo.
 GUI_LEFT_CLICK_INCREASE: Click sinistro per aumentare
 GUI_RIGHT_CLICK_DECREASE: Click destro per diminuire
 GUI_CURRENTLY: Attuale 
@@ -54,6 +55,8 @@ MYSQL_SHUTDOWN: Il server verrà chiuso.
 CREATING_WORLD_DIALOG: Creando il mondo
 CREATED_WORLD: §aCreato il mondo §b
 SPAWN_SETTED: §aSpawn impostato per il mondo 
+WORLD_ALREADY_LOADED: §cMondo gia' caricato!
+WORLD_NOT_LOADED: §cMondo gia' disabilitato!
 INVALID_NUMBER: §cIl costo inserito non e' un numero!
 COST_SETTED: §aImpostato il costo 
 DIALOG_CONFIRMED: Conferma il pagamento di 
@@ -74,6 +77,10 @@ GUI_CLICK_TO_ALLOW: §7Clicca per §aAbilitare §7lo spawn
 GUI_CLICK_TO_DISALLOW: §7Clicca per §cDisabilitare §7lo spawn
 GUI_KILLALL: Uccidi tutti
 GUI_KILLALL_LORE: Uccidi tutte le entita' disabilitate
+GUI_LOAD: Carica
+GUI_LOAD_LORE: Carica questo mondo.
+GUI_UNLOAD: Disabilita
+GUI_UNLOAD_LORE: Disabilita questo mondo.
 PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
