@@ -34,7 +34,7 @@ GUI_RIGHT_CLICK_DECREASE: Click destro per diminuire
 GUI_CURRENTLY: Attuale 
 GUI_CLICK_TO_ENABLE_SSL: §7Clicca per §aabilitare §7SSL
 GUI_CLICK_TO_DISABLE_SSL: §7Clicca per §cdisabilitare §7SSL
-MYSQL_LORE: Setup MySQL, At the end, the server will shutdown.
+MYSQL_LORE: Inizializza MySQL, Alla fine, il server verra' chiuso.
 MYSQL_CREDENTIALS: Credenziali
 MYSQL_CREDENTIALS_LORE: Pulisci credenziali.
 MYSQL_CREDENTIALS_CLEAR_LORE: Imposta le credenziali MySQL.
