@@ -74,6 +74,7 @@ GUI_INCREASE_LORE: Clicca per aumentare il costo.
 GUI_USING_UNIT: Unita' in uso 
 GUI_DISABLED_ENTITIES: Entita' disabilitate
 GUI_DISABLED_ENTITIES_LORE: Gestisci le entita' disabilitate
+GUI_BLACKLIST: Gestisci la blacklist
 GUI_CLICK_TO_ALLOW: §7Clicca per §aAbilitare §7lo spawn
 GUI_CLICK_TO_DISALLOW: §7Clicca per §cDisabilitare §7lo spawn
 GUI_CLICK_TO_ADD: §7Clicca per §aAggiungere §7nella blacklist
