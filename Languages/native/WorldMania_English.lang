@@ -76,6 +76,8 @@ GUI_DISABLED_ENTITIES: Disabled entities
 GUI_DISABLED_ENTITIES_LORE: Manage disabled entities
 GUI_CLICK_TO_ALLOW: §7Click to §aAllow §7spawn
 GUI_CLICK_TO_DISALLOW: §7Click to §cDisallow §7spawn
+GUI_CLICK_TO_ADD: §7Click to §aAdd §7in blacklist
+GUI_CLICK_TO_REMOVE: §7Click to §cRemove §7from blacklist
 GUI_KILLALL: Kill all
 GUI_KILLALL_LORE: Kill all the disabled entities
 GUI_LOAD: Load

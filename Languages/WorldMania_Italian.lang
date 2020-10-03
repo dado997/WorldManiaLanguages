@@ -76,6 +76,8 @@ GUI_DISABLED_ENTITIES: Entita' disabilitate
 GUI_DISABLED_ENTITIES_LORE: Gestisci le entita' disabilitate
 GUI_CLICK_TO_ALLOW: §7Clicca per §aAbilitare §7lo spawn
 GUI_CLICK_TO_DISALLOW: §7Clicca per §cDisabilitare §7lo spawn
+GUI_CLICK_TO_ADD: §7Clicca per §aAggiungere §7nella blacklist
+GUI_CLICK_TO_REMOVE: §7Clicca per §cRimuovere §7dalla blacklist
 GUI_KILLALL: Uccidi tutti
 GUI_KILLALL_LORE: Uccidi tutte le entita' disabilitate
 GUI_LOAD: Carica
