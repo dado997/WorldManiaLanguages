@@ -83,6 +83,7 @@ GUI_LOAD_LORE: Carica questo mondo.
 GUI_LOADED: Caricato
 GUI_UNLOAD: Disabilita
 GUI_UNLOAD_LORE: Disabilita questo mondo.
+BLACKLIST_WORLD: §cNon puoi teletrasportarti in questo mondo dal mondo in cui ti trovi.
 PLAYER_TELEPORTED: §aTeletrasportato con successo.
 DELETE_WORLD_DIALOG: Elimina mondo
 DELETING_WORLD_DIALOG: Eliminando il mondo
