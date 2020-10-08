@@ -87,7 +87,7 @@ GUI_LOADED: Loaded
 GUI_UNLOAD: Unload
 GUI_UNLOAD_LORE: Unload the world.
 BLACKLIST_WORLD: §cYou cannot go in this world from your world.
-WAIT_FOR_TELEPORT: §cYou cant use that commands for another % seconds!
+WAIT_FOR_TELEPORT: §cYou cant use that commands for another %seconds% seconds!
 PLAYER_TELEPORTED: §aSuccessfully teleported.
 DELETE_WORLD_DIALOG: Delete world
 DELETING_WORLD_DIALOG: Deleting world
