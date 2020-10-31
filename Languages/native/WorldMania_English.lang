@@ -72,6 +72,7 @@ GUI_DECREASE_LORE: Click to Decrease the cost.
 GUI_INCREASE: Increase
 GUI_INCREASE_LORE: Click to Increase the cost.
 GUI_USING_UNIT: Using unit 
+GUI_PROPERTIES: Properties
 GUI_HUNGER: Hunger
 GUI_AUTOHEAL: AutoHeal
 GUI_PORTALS: Portals
