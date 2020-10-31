@@ -102,4 +102,4 @@ COMMAND_HINT_HELP: §7Type in chat /worldmania to see all commands.
 WORLD_ALREADY_EXISTS: §cA world with this name already exists!
 WORLD_DOESNT_EXISTS: §cA world with this name doesn't exists!
 PLAYER_NOT_FOUNDED: §cPlayer not founded!
-PLUGIN_RELOADED: §aPlugin reloaded successfully.
+PLUGIN_RELOADED: §aPlugin reloaded successfully!
