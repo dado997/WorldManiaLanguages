@@ -62,6 +62,7 @@ INVALID_NUMBER: §cIl costo inserito non e' un numero!
 LIMIT_INVALID_NUMBER: §cIl limite inserito non e' un numero!
 COST_SETTED: §aImpostato il costo 
 LIMIT_SETTED: §aImportato il limite: 
+LIMIT_REACHED: §cQuesto mondo ha raggiunto il limite di giocatori!
 DIALOG_CONFIRMED: Conferma il pagamento di 
 DIALOG_CONFIRMED_LORE: Scrivi in chat confirm.
 INSUFFICIENT_MONEY: §cSoldi insufficienti! Richiesti 
