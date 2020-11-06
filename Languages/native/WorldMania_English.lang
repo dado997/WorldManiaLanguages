@@ -59,7 +59,9 @@ WORLD_LOADED: §aWorld loaded
 WORLD_ALREADY_LOADED: §cWorld already loaded!
 WORLD_NOT_LOADED: §cWorld already unloaded!
 INVALID_NUMBER: §cThe cost inserted isn't a number!
+LIMIT_INVALID_NUMBER: §cThe limit inserted isn't a number!
 COST_SETTED: §aSetted cost 
+LIMIT_SETTED: §aSetted limit: 
 DIALOG_CONFIRMED: Confirm the payment of: 
 DIALOG_CONFIRMED_LORE: Type in chat confirm.
 INSUFFICIENT_MONEY: §cInsufficient money! You need 
