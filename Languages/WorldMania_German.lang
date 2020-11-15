@@ -16,24 +16,24 @@ GUI_GENERATOR: Generator
 GUI_GENERATE_STRUCTURES: Erzeuge Strukturen
 GUI_CLICK_TO_TELEPORT: Klicke zum Teleport.
 GUI_CONFIRM: Bestätigen
-GUI_CONFIRM_LORE: §7Klicke zum Bestätigen
+GUI_CONFIRM_LORE: Klicke zum Bestätigen
 GUI_ABORT: Abbrechen
-GUI_ABORT_LORE: §7Klicke zum Abbrechen
+GUI_ABORT_LORE: Klicke zum Abbrechen
 GUI_DIFFICULTY: Schwierigkeit
 GUI_WEATHER: Festes Wetter
 GUI_PLAYERS: Spieler
 GUI_TIME_LOCKED: Feste Zeit
 GUI_ICON: Icon
-GUI_CLICK_TO_CHANGE: §aKlicke zum Ändern
-GUI_CLICK_TO_VIEW_PLAYERS: §aKlicke zum Anzeigen der Spieler in dieser Welt.
+GUI_CLICK_TO_CHANGE: Klicke zum Ändern
+GUI_CLICK_TO_VIEW_PLAYERS: Klicke zum Anzeigen der Spieler in dieser Welt.
 GUI_CLICK_TO_CHANGE_TO: §aKlicke zum Ändern zu 
 GUI_DELETE: Löschen
 GUI_DELETE_LORE: Lösche die Welt.
 GUI_LEFT_CLICK_INCREASE: Linksklick zum Erhöhen
 GUI_RIGHT_CLICK_DECREASE: Rechtsklick zum Verringern
 GUI_CURRENTLY: aktuell 
-GUI_CLICK_TO_ENABLE_SSL: §7Klicke zum §aaktivieren von §7SSL
-GUI_CLICK_TO_DISABLE_SSL: §7Klicke zum §cdeaktivieren von §7SSL
+GUI_CLICK_TO_ENABLE_SSL: Klicke zum §aaktivieren von §7SSL
+GUI_CLICK_TO_DISABLE_SSL: Klicke zum §cdeaktivieren von §7SSL
 MYSQL_LORE: Setup MySQL, Am Ende wird der Server heruntergefahren.
 MYSQL_CREDENTIALS: Login Daten
 MYSQL_CREDENTIALS_LORE: Lösche die Login Daten.
@@ -42,10 +42,10 @@ MYSQL_CREDENTIALS_NOT_FOUNDED: Keine Login Daten hinterlegt. Bitte gebe deine Lo
 MYSQL_CONNECTING: Verbinde zu MySQL
 MYSQL_CONNECTING_LORE: Bitte warten.
 MYSQL_CONNECTION_FAILED: Verbindung fehlgeschlagen.
-MYSQL_CONNECTION_FAILED_LORE: §7Bitte überprüfe, dass deine Einstellungen korrekt sind und die Datenbank erreichbar ist.
-MYSQL_CONNECTION_FAILED_LORE2: §7Verbindungsfehler: 
+MYSQL_CONNECTION_FAILED_LORE: Bitte überprüfe, dass deine Einstellungen korrekt sind und die Datenbank erreichbar ist.
+MYSQL_CONNECTION_FAILED_LORE2: Verbindungsfehler: 
 MYSQL_SAVE: Speichern
-MYSQL_SAVE_LORE: §7Klicke zum Speichern der Änderungen
+MYSQL_SAVE_LORE: Klicke zum Speichern der Änderungen
 MYSQL_SAVED: Gespeichert
 MYSQL_SAVED_LORE: Login Daten gespeichert.
 MYSQL_TEST: Test Verbindung
@@ -53,19 +53,19 @@ MYSQL_TEST_LORE: §7Klicke zum Verbindungstest
 MYSQL_DISABLE: Deaktivieren
 MYSQL_SHUTDOWN: Der Server wird heruntergefahren
 CREATING_WORLD_DIALOG: Erzeuge Welt
-CREATED_WORLD: §aDie Welt wurde erzeugt §b 
-SPAWN_SETTED: §aSpawn für die Welt gesetzt 
-WORLD_LOADED: §aWelt geladen
-WORLD_ALREADY_LOADED: §cWelt ist bereits geladen!
-WORLD_NOT_LOADED: §cWelt wurde bereits entladen!
-INVALID_NUMBER: §cDie eingegebenen Kosten sind kein Zahlen!
-LIMIT_INVALID_NUMBER: §cDas eingegebene Limit ist keine Zahl!
-COST_SETTED: §aKosten gesetzt 
-LIMIT_SETTED: §aLimit gesetzt: 
-LIMIT_REACHED: §cDiese Welt hat das Spielerlimit erreicht!
+CREATED_WORLD: Die Welt wurde erzeugt §b 
+SPAWN_SETTED: Spawn für die Welt gesetzt 
+WORLD_LOADED: Welt geladen
+WORLD_ALREADY_LOADED: Welt ist bereits geladen!
+WORLD_NOT_LOADED: Welt wurde bereits entladen!
+INVALID_NUMBER: Die eingegebenen Kosten sind kein Zahlen!
+LIMIT_INVALID_NUMBER: Das eingegebene Limit ist keine Zahl!
+COST_SETTED: Kosten gesetzt 
+LIMIT_SETTED: Limit gesetzt: 
+LIMIT_REACHED: Diese Welt hat das Spielerlimit erreicht!
 DIALOG_CONFIRMED: Bestätige die Zahlung von: 
 DIALOG_CONFIRMED_LORE: Schreibe zum Bestätigen in den Chat.
-INSUFFICIENT_MONEY: §cNicht genug Geld! Du brauchst 
+INSUFFICIENT_MONEY: Nicht genug Geld! Du brauchst 
 GUI_COST: Kosten
 GUI_WORLD_NO_COST: Diese Welt hat keine Kosten.
 GUI_ACTUALLY_COST: Tatsächliche Kosten 
@@ -82,10 +82,10 @@ GUI_PORTALS: Portale
 GUI_DISABLED_ENTITIES: Entitäten deaktiviert
 GUI_DISABLED_ENTITIES_LORE: Bearbeite die deaktivierten Entitäten
 GUI_BLACKLIST: Bearbeite Blacklist
-GUI_CLICK_TO_ALLOW: §7Klicke zum §aErlauben des §7spawn
-GUI_CLICK_TO_DISALLOW: §7Klicke zum §cVerbiten des §7spawn
-GUI_CLICK_TO_ADD: §7Klicke zum §aHinzufügen §7zur Blacklist
-GUI_CLICK_TO_REMOVE: §7Klicke zum §cEntfernen §7von der blacklist
+GUI_CLICK_TO_ALLOW: Klicke zum §aErlauben des §7spawn
+GUI_CLICK_TO_DISALLOW: Klicke zum §cVerbiten des §7spawn
+GUI_CLICK_TO_ADD: Klicke zum §aHinzufügen §7zur Blacklist
+GUI_CLICK_TO_REMOVE: Klicke zum §cEntfernen §7von der blacklist
 GUI_KILLALL: Alle töten
 GUI_KILLALL_LORE: Töte alle deaktivierten Entitäten
 GUI_LOAD: Lade
@@ -93,20 +93,20 @@ GUI_LOAD_LORE: Lade die Welt.
 GUI_LOADED: Geladen
 GUI_UNLOAD: Entladen
 GUI_UNLOAD_LORE: Entlade die Welt.
-BLACKLIST_WORLD: §cDu kannst von diese Welt von hieraus nicht betreten.
-WAIT_FOR_TELEPORT: §cDu kannst diesen Befehl für weitere %seconds% Sekunden nicht benutzen!
-PLAYER_TELEPORTED: §aErfolgreich teleportiert.
+BLACKLIST_WORLD: Du kannst von diese Welt von hieraus nicht betreten.
+WAIT_FOR_TELEPORT: Du kannst diesen Befehl für weitere %seconds% Sekunden nicht benutzen!
+PLAYER_TELEPORTED: Erfolgreich teleportiert.
 DELETE_WORLD_DIALOG: Lösche die Welt
 DELETING_WORLD_DIALOG: Lösche die Welt
-NO_ALTERNATIVE_WORLD: §cDiese Welt beinhaltet Spieler und es gibt keine Welt um sie zu teleportieren. Diese Welt kann nicht entladen werden.
+NO_ALTERNATIVE_WORLD: Diese Welt beinhaltet Spieler und es gibt keine Welt um sie zu teleportieren. Diese Welt kann nicht entladen werden.
 SEARCH_SUBTITLE_DIALOG: Schreibe den Suchbegriff in den Chat.
 CLOSE_SEARCH: Schließen
-CONSOLE_CANNOT_USE: §cDie Konsole kann diesen Befehl nicht ausführen!
-NO_PERMISSION: §cDu hast keine Berechtigung zum Ausführen der Aktion!
-COMMAND_INVALID_ARGS: §cUngültige Eingabe!
-COMMAND_NOTFOUND: §cBefehl nicht gefunden!
-COMMAND_HINT_HELP: §7Schreibe /worldmania in den Chat um alle Befehle zu sehen.
-WORLD_ALREADY_EXISTS: §cEs gibt bereits eine Welt mit diesem Namen!
-WORLD_DOESNT_EXISTS: §cEs gibt keine Welt mit diesem Namen!
-PLAYER_NOT_FOUNDED: §cSpieler nicht gefunden!
-PLUGIN_RELOADED: §aPlugin erfolgreich neu geladen!
+CONSOLE_CANNOT_USE: Die Konsole kann diesen Befehl nicht ausführen!
+NO_PERMISSION: Du hast keine Berechtigung zum Ausführen der Aktion!
+COMMAND_INVALID_ARGS: Ungültige Eingabe!
+COMMAND_NOTFOUND: Befehl nicht gefunden!
+COMMAND_HINT_HELP: Schreibe /worldmania in den Chat um alle Befehle zu sehen.
+WORLD_ALREADY_EXISTS: Es gibt bereits eine Welt mit diesem Namen!
+WORLD_DOESNT_EXISTS: Es gibt keine Welt mit diesem Namen!
+PLAYER_NOT_FOUNDED: Spieler nicht gefunden!
+PLUGIN_RELOADED: Plugin erfolgreich neu geladen!
