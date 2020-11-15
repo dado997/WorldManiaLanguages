@@ -53,16 +53,16 @@ MYSQL_TEST_LORE: §7Klicke zum Verbindungstest
 MYSQL_DISABLE: Deaktivieren
 MYSQL_SHUTDOWN: Der Server wird heruntergefahren
 CREATING_WORLD_DIALOG: Erzeuge Welt
-CREATED_WORLD: Die Welt wurde erzeugt §b 
-SPAWN_SETTED: Spawn für die Welt gesetzt 
-WORLD_LOADED: Welt geladen
-WORLD_ALREADY_LOADED: Welt ist bereits geladen!
-WORLD_NOT_LOADED: Welt wurde bereits entladen!
-INVALID_NUMBER: Die eingegebenen Kosten sind kein Zahlen!
-LIMIT_INVALID_NUMBER: Das eingegebene Limit ist keine Zahl!
-COST_SETTED: Kosten gesetzt 
-LIMIT_SETTED: Limit gesetzt: 
-LIMIT_REACHED: Diese Welt hat das Spielerlimit erreicht!
+CREATED_WORLD: §aDie Welt wurde erzeugt §b 
+SPAWN_SETTED: §aSpawn für die Welt gesetzt 
+WORLD_LOADED: §aWelt geladen
+WORLD_ALREADY_LOADED: §cWelt ist bereits geladen!
+WORLD_NOT_LOADED: §cWelt wurde bereits entladen!
+INVALID_NUMBER: §cDie eingegebenen Kosten sind kein Zahlen!
+LIMIT_INVALID_NUMBER: §cDas eingegebene Limit ist keine Zahl!
+COST_SETTED: §aKosten gesetzt 
+LIMIT_SETTED: §aLimit gesetzt: 
+LIMIT_REACHED: §cDiese Welt hat das Spielerlimit erreicht!
 DIALOG_CONFIRMED: Bestätige die Zahlung von: 
 DIALOG_CONFIRMED_LORE: Schreibe zum Bestätigen in den Chat.
 INSUFFICIENT_MONEY: Nicht genug Geld! Du brauchst 
@@ -82,10 +82,10 @@ GUI_PORTALS: Portale
 GUI_DISABLED_ENTITIES: Entitäten deaktiviert
 GUI_DISABLED_ENTITIES_LORE: Bearbeite die deaktivierten Entitäten
 GUI_BLACKLIST: Bearbeite Blacklist
-GUI_CLICK_TO_ALLOW: Klicke zum §aErlauben des §7spawn
-GUI_CLICK_TO_DISALLOW: Klicke zum §cVerbiten des §7spawn
-GUI_CLICK_TO_ADD: Klicke zum §aHinzufügen §7zur Blacklist
-GUI_CLICK_TO_REMOVE: Klicke zum §cEntfernen §7von der blacklist
+GUI_CLICK_TO_ALLOW: §7Klicke zum §aErlauben des §7spawn
+GUI_CLICK_TO_DISALLOW: §7Klicke zum §cVerbiten des §7spawn
+GUI_CLICK_TO_ADD: §7Klicke zum §aHinzufügen §7zur Blacklist
+GUI_CLICK_TO_REMOVE: §7licke zum §cEntfernen §7von der blacklist
 GUI_KILLALL: Alle töten
 GUI_KILLALL_LORE: Töte alle deaktivierten Entitäten
 GUI_LOAD: Lade
