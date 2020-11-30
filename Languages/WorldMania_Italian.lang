@@ -1,7 +1,7 @@
-GUI_PREVIOUS: Previous
-GUI_PREVIOUS_LORE: Go to previous page.
-GUI_NEXT: Next
-GUI_NEXT_LORE: Go to next page.
+GUI_PREVIOUS: Indietro
+GUI_PREVIOUS_LORE: Vai alla pagina precedente.
+GUI_NEXT: Avanti
+GUI_NEXT_LORE: Vai alla prossima pagina.
 GUI_SEARCH: Cerca
 GUI_SEARCH_LORE: Clicca per cercare
 GUI_CLICK_TO_CHOOSE: Click to choose
