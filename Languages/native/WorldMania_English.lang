@@ -79,6 +79,8 @@ GUI_PROPERTIES: Properties
 GUI_HUNGER: Hunger
 GUI_AUTOHEAL: AutoHeal
 GUI_PORTALS: Portals
+GUI_SPAWN_LORE: If is true, players, when join in the server and spawn in this
+GUI_SPAWN_LORE2: world, will teleport in the spawn setted by /wm setspawn
 GUI_DISABLED_ENTITIES: Disabled entities
 GUI_DISABLED_ENTITIES_LORE: Manage disabled entities
 GUI_BLACKLIST: Manage blacklist

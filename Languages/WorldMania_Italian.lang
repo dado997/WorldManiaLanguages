@@ -79,6 +79,8 @@ GUI_PROPERTIES: Proprieta'
 GUI_HUNGER: Fame
 GUI_AUTOHEAL: AutoRigenerazione
 GUI_PORTALS: Portali
+GUI_SPAWN_LORE: Se e' abilitata, i giocatori, quando entrano nel server e nasceranno in questo
+GUI_SPAWN_LORE2: mondo, verranno teletrasportarti nello spawn impostato con /wm setspawn
 GUI_DISABLED_ENTITIES: Entita' disabilitate
 GUI_DISABLED_ENTITIES_LORE: Gestisci le entita' disabilitate
 GUI_BLACKLIST: Gestisci la blacklist
