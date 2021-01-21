@@ -43,7 +43,7 @@ MYSQL_CONNECTING: Verbinde zu MySQL
 MYSQL_CONNECTING_LORE: Bitte warten.
 MYSQL_CONNECTION_FAILED: Verbindung fehlgeschlagen.
 MYSQL_CONNECTION_FAILED_LORE: Bitte überprüfe, dass deine Einstellungen korrekt sind und die Datenbank erreichbar ist.
-MYSQL_CONNECTION_FAILED_LORE2: Verbindungsfehler: 
+MYSQL_CONNECTION_FAILED_LORE2: Verbindungsfehler 
 MYSQL_SAVE: Speichern
 MYSQL_SAVE_LORE: Klicke zum Speichern der Änderungen
 MYSQL_SAVED: Gespeichert
@@ -61,9 +61,9 @@ WORLD_NOT_LOADED: §cWelt wurde bereits entladen!
 INVALID_NUMBER: §cDie eingegebenen Kosten sind kein Zahlen!
 LIMIT_INVALID_NUMBER: §cDas eingegebene Limit ist keine Zahl!
 COST_SETTED: §aKosten gesetzt 
-LIMIT_SETTED: §aLimit gesetzt: 
+LIMIT_SETTED: §aLimit gesetzt 
 LIMIT_REACHED: §cDiese Welt hat das Spielerlimit erreicht!
-DIALOG_CONFIRMED: Bestätige die Zahlung von: 
+DIALOG_CONFIRMED: Bestätige die Zahlung von 
 DIALOG_CONFIRMED_LORE: Schreibe zum Bestätigen in den Chat.
 INSUFFICIENT_MONEY: Nicht genug Geld! Du brauchst 
 GUI_COST: Kosten
