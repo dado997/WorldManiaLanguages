@@ -43,7 +43,7 @@ MYSQL_CONNECTING: Connessione a MySQL
 MYSQL_CONNECTING_LORE: Per favore, aspetta.
 MYSQL_CONNECTION_FAILED: Connessione fallita.
 MYSQL_CONNECTION_FAILED_LORE: §7Controlla che le tue impostazioni siano corrette e che il database sia accessibile.
-MYSQL_CONNECTION_FAILED_LORE2: §7Errore di connessione: 
+MYSQL_CONNECTION_FAILED_LORE2: §7Errore di connessione 
 MYSQL_SAVE: Salva
 MYSQL_SAVE_LORE: §7Clicca per salvare.
 MYSQL_SAVED: Salvato
